@@ -1,0 +1,16 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directory
+node_modules
+
+# Unwanted
+.idea
+.DS_Store
+.vscode
+
+# Build files
+dist/*
+test/dest.js
