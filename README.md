@@ -16,6 +16,12 @@
   <img src="https://img.shields.io/github/release/denyncrawford/deno-rollup-plugin-livereload.svg" alt="Latest Version" />
 </a>
 
+## Overview
+
+This modules made for [deno-rollup](https://github.com/cmorten/deno-rollup) **Next-generation ES module bundler for Deno ported from Rollup**.
+
+deno-rollup-plugin-livereload is a Deno rebuilt/port from rollup-plugin-livereload. Automatically reload your browser when the filesystem changes.
+
 ## Import
 
 ```typescript
